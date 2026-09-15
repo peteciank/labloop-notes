@@ -15,16 +15,16 @@ Role route to test: applied scientist / scientific AI lead / both.
 ## Skill evidence
 | Capability | Can do alone / with help / new | Evidence link or example | First gap |
 |---|---|---|---|
-| Python and debugging | | | |
-| Git and reproducible environments | | | |
-| Statistics and evaluation | | | |
-| ML / LLM systems | | | |
-| Biology and bioprocess vocabulary | | | |
-| Leading delivery and teams | | | |
+| Python and debugging |X| | |
+| Git and reproducible environments |X| | |
+| Statistics and evaluation | |X| |
+| ML / LLM systems |X| | |
+| Biology and bioprocess vocabulary |X| | |
+| Leading delivery and teams |X| | |
 
 ## Three defensible career stories
 For each: context, my responsibility, action, result, supporting evidence, what is confidential.
-1.
+1. Reinvention: Im redefining the way I'm working, and what is my metie. Until today, it was purely IT Factory, but this is no longer a good place to work. Action: Implement the study plan to convert myself into a BioTech Scientist oriented to Technology. Result: in 40 weeks, I will land into anothe job with 25 years of tech professional experience, plus 1 year of career deepeing in AI and BioTech. Evidences: I will share public work in Linkedin, Medium and Arxiv, BioArXiv to build this career. Confidential: Yes for the moment, masked by an upskilling path.  
 2.
 3.
 
@@ -36,6 +36,6 @@ For each: context, my responsibility, action, result, supporting evidence, what 
 5. Run the Python environment smoke check and save its output.
 
 ## Budget and uncertainty
-API spending authorized:
-Equipment actually available:
+API spending authorized: 150 USD
+Equipment actually available: 1 GPU 4vRAM
 Claims still needing verification:
